@@ -1,0 +1,7 @@
+D:\LapTrinhHuongDoiTuong_OOP\Lab4_Bai4.1\bin\Debug\Lab4_Bai4.1.exe.config
+D:\LapTrinhHuongDoiTuong_OOP\Lab4_Bai4.1\bin\Debug\Lab4_Bai4.1.exe
+D:\LapTrinhHuongDoiTuong_OOP\Lab4_Bai4.1\bin\Debug\Lab4_Bai4.1.pdb
+D:\LapTrinhHuongDoiTuong_OOP\Lab4_Bai4.1\obj\Debug\Lab4_Bai41.csproj.AssemblyReference.cache
+D:\LapTrinhHuongDoiTuong_OOP\Lab4_Bai4.1\obj\Debug\Lab4_Bai41.csproj.CoreCompileInputs.cache
+D:\LapTrinhHuongDoiTuong_OOP\Lab4_Bai4.1\obj\Debug\Lab4_Bai4.1.exe
+D:\LapTrinhHuongDoiTuong_OOP\Lab4_Bai4.1\obj\Debug\Lab4_Bai4.1.pdb

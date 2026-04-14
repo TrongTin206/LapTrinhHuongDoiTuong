@@ -1,0 +1,7 @@
+D:\LapTrinhHuongDoiTuong_OOP\Bai_2.1\obj\Debug\Bai_2.1.csproj.AssemblyReference.cache
+D:\LapTrinhHuongDoiTuong_OOP\Bai_2.1\obj\Debug\Bai_2.1.csproj.CoreCompileInputs.cache
+D:\LapTrinhHuongDoiTuong_OOP\Bai_2.1\bin\Debug\Bai_2.1.exe.config
+D:\LapTrinhHuongDoiTuong_OOP\Bai_2.1\bin\Debug\Bai_2.1.exe
+D:\LapTrinhHuongDoiTuong_OOP\Bai_2.1\bin\Debug\Bai_2.1.pdb
+D:\LapTrinhHuongDoiTuong_OOP\Bai_2.1\obj\Debug\Bai_2.1.exe
+D:\LapTrinhHuongDoiTuong_OOP\Bai_2.1\obj\Debug\Bai_2.1.pdb

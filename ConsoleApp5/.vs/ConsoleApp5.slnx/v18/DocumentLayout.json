@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhHuongDoiTuong_OOP\\ConsoleApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5C0007-CE96-462C-8EDC-3E14191183AC}|ConsoleApp5.csproj|d:\\laptrinhhuongdoituong_oop\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5C0007-CE96-462C-8EDC-3E14191183AC}|ConsoleApp5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5C0007-CE96-462C-8EDC-3E14191183AC}|ConsoleApp5.csproj|d:\\laptrinhhuongdoituong_oop\\consoleapp5\\nhanvienvanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5C0007-CE96-462C-8EDC-3E14191183AC}|ConsoleApp5.csproj|solutionrelative:nhanvienvanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5C0007-CE96-462C-8EDC-3E14191183AC}|ConsoleApp5.csproj|d:\\laptrinhhuongdoituong_oop\\consoleapp5\\nhanviensanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5C0007-CE96-462C-8EDC-3E14191183AC}|ConsoleApp5.csproj|solutionrelative:nhanviensanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5C0007-CE96-462C-8EDC-3E14191183AC}|ConsoleApp5.csproj|d:\\laptrinhhuongdoituong_oop\\consoleapp5\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5C0007-CE96-462C-8EDC-3E14191183AC}|ConsoleApp5.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVienSanXuat.cs",
+              "DocumentMoniker": "D:\\LapTrinhHuongDoiTuong_OOP\\ConsoleApp5\\NhanVienSanXuat.cs",
+              "RelativeDocumentMoniker": "NhanVienSanXuat.cs",
+              "ToolTip": "D:\\LapTrinhHuongDoiTuong_OOP\\ConsoleApp5\\NhanVienSanXuat.cs*",
+              "RelativeToolTip": "NhanVienSanXuat.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:28:34.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienVanPhong.cs",
+              "DocumentMoniker": "D:\\LapTrinhHuongDoiTuong_OOP\\ConsoleApp5\\NhanVienVanPhong.cs",
+              "RelativeDocumentMoniker": "NhanVienVanPhong.cs",
+              "ToolTip": "D:\\LapTrinhHuongDoiTuong_OOP\\ConsoleApp5\\NhanVienVanPhong.cs*",
+              "RelativeToolTip": "NhanVienVanPhong.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:28:18.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\LapTrinhHuongDoiTuong_OOP\\ConsoleApp5\\NhanVien.cs",
+              "RelativeDocumentMoniker": "NhanVien.cs",
+              "ToolTip": "D:\\LapTrinhHuongDoiTuong_OOP\\ConsoleApp5\\NhanVien.cs*",
+              "RelativeToolTip": "NhanVien.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:27:51.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LapTrinhHuongDoiTuong_OOP\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\LapTrinhHuongDoiTuong_OOP\\ConsoleApp5\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:27:36.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

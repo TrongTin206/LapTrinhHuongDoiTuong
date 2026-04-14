@@ -1,0 +1,10 @@
+D:\LapTrinhHuongDoiTuong_OOP\Lab5.3\bin\Debug\Lab5.3.exe.config
+D:\LapTrinhHuongDoiTuong_OOP\Lab5.3\bin\Debug\Lab5.3.exe
+D:\LapTrinhHuongDoiTuong_OOP\Lab5.3\bin\Debug\Lab5.3.pdb
+D:\LapTrinhHuongDoiTuong_OOP\Lab5.3\obj\Debug\Lab5.3.csproj.AssemblyReference.cache
+D:\LapTrinhHuongDoiTuong_OOP\Lab5.3\obj\Debug\Lab5._3.Form1.resources
+D:\LapTrinhHuongDoiTuong_OOP\Lab5.3\obj\Debug\Lab5._3.Properties.Resources.resources
+D:\LapTrinhHuongDoiTuong_OOP\Lab5.3\obj\Debug\Lab5.3.csproj.GenerateResource.cache
+D:\LapTrinhHuongDoiTuong_OOP\Lab5.3\obj\Debug\Lab5.3.csproj.CoreCompileInputs.cache
+D:\LapTrinhHuongDoiTuong_OOP\Lab5.3\obj\Debug\Lab5.3.exe
+D:\LapTrinhHuongDoiTuong_OOP\Lab5.3\obj\Debug\Lab5.3.pdb
