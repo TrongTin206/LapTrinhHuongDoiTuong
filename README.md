@@ -36,5 +36,4 @@ các thư viện lập trình kèm theo.
 
 ---
 
-```
 
