@@ -1,4 +1,4 @@
-# 💻 LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG OOP
+# 🧠 LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG OOP
 ---
 
 ## 📋 Thông tin
@@ -11,13 +11,13 @@
 
 ---
 
-## 📚 Giới thiệu
+## 🧾 Giới thiệu
 
 Lập trình hướng đối tượng trang bị cho người học kiến thức nền tảng bao gồm các khái niệm, các tính chất, cách tiếp cận bài toán theo hướng đối tượng; và kiến thức của một ngôn ngữ lập trình hướng đối tượng để minh họa bài toán theo tư duy hướng đối tượng
 
 ---
 
-## 🎯 Mục tiêu
+## 🔥 Mục tiêu
 
 Cung cấp các kiến thức giúp sinh viên hiểu được nguyên lý và phương pháp lập trình hướng đối
 tượng; Trang bị kỹ năng để SV có khả năng cài đặt bài toán được thiết kế theo hướng đối tượng
@@ -26,7 +26,7 @@ các thư viện lập trình kèm theo.
 
 --- 
 
-## 📊 Chuẩn đầu ra
+## 💯 Chuẩn đầu ra
 
 - Giải thích các khái niệm, tính chất trong lập trình hướng đối tượng;
 - Sử dụng được một ngôn ngữ lập trình hướng đối tượng (C#);
