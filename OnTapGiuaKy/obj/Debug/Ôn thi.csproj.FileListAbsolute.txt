@@ -1,0 +1,7 @@
+D:\LapTrinhHuongDoiTuong_OOP\Ôn thi\bin\Debug\Ôn thi.exe.config
+D:\LapTrinhHuongDoiTuong_OOP\Ôn thi\bin\Debug\Ôn thi.exe
+D:\LapTrinhHuongDoiTuong_OOP\Ôn thi\bin\Debug\Ôn thi.pdb
+D:\LapTrinhHuongDoiTuong_OOP\Ôn thi\obj\Debug\Ôn thi.csproj.AssemblyReference.cache
+D:\LapTrinhHuongDoiTuong_OOP\Ôn thi\obj\Debug\Ôn thi.csproj.CoreCompileInputs.cache
+D:\LapTrinhHuongDoiTuong_OOP\Ôn thi\obj\Debug\Ôn thi.exe
+D:\LapTrinhHuongDoiTuong_OOP\Ôn thi\obj\Debug\Ôn thi.pdb
