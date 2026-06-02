@@ -1,0 +1,7 @@
+D:\LapTrinhHuongDoiTuong_OOP\OnThi CuoiKiSach\bin\Debug\OnThi CuoiKiSach.exe.config
+D:\LapTrinhHuongDoiTuong_OOP\OnThi CuoiKiSach\bin\Debug\OnThi CuoiKiSach.exe
+D:\LapTrinhHuongDoiTuong_OOP\OnThi CuoiKiSach\bin\Debug\OnThi CuoiKiSach.pdb
+D:\LapTrinhHuongDoiTuong_OOP\OnThi CuoiKiSach\obj\Debug\OnThi CuoiKiSach.csproj.AssemblyReference.cache
+D:\LapTrinhHuongDoiTuong_OOP\OnThi CuoiKiSach\obj\Debug\OnThi CuoiKiSach.csproj.CoreCompileInputs.cache
+D:\LapTrinhHuongDoiTuong_OOP\OnThi CuoiKiSach\obj\Debug\OnThi CuoiKiSach.exe
+D:\LapTrinhHuongDoiTuong_OOP\OnThi CuoiKiSach\obj\Debug\OnThi CuoiKiSach.pdb
